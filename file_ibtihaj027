@@ -1,2 +1,2 @@
 
-cout << "Name: Ibtihaj" << "Roll: 27" << "Dep: SET" << endl;
+cout << "Name: Ibtihaj" << "Roll: 27" << "Department of Software Engg Tech" << endl;
