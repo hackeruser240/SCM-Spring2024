@@ -4,7 +4,7 @@ using namespace std;
 int main()
 
 {
-    cout << "Rameez-SET-006" << endl;
+    cout << "Muhammad Rameez-ST-006" << endl;
 
     return 0;
 }
