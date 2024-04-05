@@ -1,0 +1,4 @@
+cout<<"my roll no is 23-st-045"<<endl;
+cout<<"my department is Software Engineering Technology "<<endl;
+cout<<"The papers that I've given in 2nd semester are: "<<endl;
+cout<<"OOP, SDLC, SCM, DS, Funtional English, Probablity&statistics, Quran Translation"<<endl;
