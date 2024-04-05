@@ -7,7 +7,14 @@ lays
 gala
 
 danedar
+
 I live in Lahore
+
+
+cout<<"the addition of two numbers"<<a+b;
+
+
+
 cout<<"The addition of two numbers"<< a+b <<endl;
 
 
