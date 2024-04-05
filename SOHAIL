@@ -7,3 +7,4 @@ SDLC
 ISL
 ENGLISH
 STATICS
+cout << "hello word";
