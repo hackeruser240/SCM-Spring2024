@@ -1,0 +1,1 @@
+newFile.txt sample text.
