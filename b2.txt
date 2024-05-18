@@ -1,0 +1,2 @@
+cout<<"ABDUL WAHEED"<<endl;
+cout<<"ABDUL WAHEED"<<endl;
