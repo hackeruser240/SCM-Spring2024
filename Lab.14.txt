@@ -1,0 +1,2 @@
+cout<<"abdull waheed"<<endl;
+cout<<23-SET-040"<<endl;
