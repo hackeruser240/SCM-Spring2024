@@ -47,8 +47,9 @@ My name is jawad Ahmad
 My Roll NO is 23-st-007
 
 
-my name is muhammad taha feroz
-my roll number is 23-st-051
+cout << "my name is muhammad taha feroz" << endl;
+cout << "my roll number is 23-st-051" << endl;
+
 Name:Farhan Javed
 Roll No.:23-st-034
 
